@@ -35,3 +35,11 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Ignore specific files
+.idea/
+.DS_Store
+
+# Ignore all files in a directory
+logs/
+temp/
